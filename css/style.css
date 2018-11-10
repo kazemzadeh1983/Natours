@@ -115,7 +115,9 @@ body {
   position: relative;
   font-size: 1.6rem;
   border: none;
-  cursor: pointer; }
+  cursor: pointer;
+  margin-top: 2.6rem;
+ }
 
 .btn:hover {
   transform: translateY(-3px);
