@@ -137,7 +137,7 @@ body {
 .btn--white {
   background-color: #fff;
   color: #777; }
-  .btn-white::after {
+  .btn--white::after {
     background-color: #fff; }
 
 .btn::after {
