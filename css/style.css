@@ -41,6 +41,7 @@ body {
 
 .heading-primary {
   color: #fff;
+  margin-bottom: 6rem;
   text-transform: uppercase;
   backface-visibility: hidden; }
   .heading-primary--main {
@@ -104,6 +105,7 @@ body {
 
 .heading-primary {
   color: #fff;
+  margin-bottom: 6rem;
   text-transform: uppercase;
   backface-visibility: hidden; }
   .heading-primary--main {
